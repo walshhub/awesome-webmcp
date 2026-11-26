@@ -101,6 +101,7 @@ Production websites and apps that expose WebMCP tools to agents. Entries are ver
 
 ### Content, Media, and Personal Sites
 
+- [AlchemyLeads](https://alchemyleads.com/mcp/) - AI search agency site whose MCP page registers nine read-only tools (`search_posts`, `list_posts`, `get_post`, `list_services`, `get_case_studies`, `get_site_info`, `book_strategy_call`, `list_plans`, `get_checkout_link`); checkout links hand payment and terms acceptance to the human buyer.
 - [Archipelago](https://warrenperez.com/en/archipelago/) - Maps a Notion workspace as a nautical chart, entirely in the browser. Four WebMCP tools let an agent draw the chart, read it back, highlight databases, and annotate islands on the same map the human is watching.
 - [chriswijnia.com](https://chriswijnia.com/) - Personal site whose pages register WebMCP tools, including a shared emoji canvas an agent can paint on ([1 Million Emojis](https://chriswijnia.com/lab/emoji)) and chess against Jev ([Chess with Jev](https://chriswijnia.com/lab/chess)).
 - [cloverbase.com](https://cloverbase.com/) - AI adoption mentorship site with site info, post listing, search, and newsletter tools. One of four sites made agent-ready in a day ([write-up](https://nz365guy.com/blog/four-websites-agent-ready-webmcp)).
